@@ -1,41 +1,35 @@
-📊 Subscribers Galore – Exploring World’s Top YouTube Channels
+📊 *Subscribers Galore – Exploring World’s Top YouTube Channels*
 
   A compact Data Analysis Project where I explored the world’s top YouTube channels using a structured dataset.
 This project includes dashboards, a data story, and brainstorming notes that highlight insights on subscriber growth, content categories, and overall channel performance.
 
 📁 The repository contains all dashboards, dataset, and documents used in the analysis.
 
-📌 Tools & Techniques Used
+📌 *Tools & Techniques Used*
 
-Data Analysis: Excel / CSV exploration
-Dashboard Creation: Tableau 
-Data Storytelling: PDF story output
-Brainstorming & Planning: Empathy map + idea sketches
-
-
-🧩 What I Did
-
-Cleaned and explored the YouTube channels dataset
-
-Built 4 dashboards showcasing insights
-
-Created a data story summarizing findings
-
-Drafted brainstorming notes and empathy mapping
-
-Analyzed subscriber comparisons, video performance, and category trends
+🔸Data Analysis: Excel / CSV exploration
+🔸Dashboard Creation: Tableau 
+🔸Data Storytelling: PDF story output
+🔸Brainstorming & Planning: Empathy map + idea sketches
 
 
-🖼️ Sneak Peek
+🧩 *What I Did*
+
+🔸Cleaned and explored the YouTube channels dataset
+🔸Built 4 dashboards showcasing insights
+🔸Created a data story summarizing findings
+🔸Drafted brainstorming notes and empathy mapping
+🔸Analyzed subscriber comparisons, video performance, and category trends
+
+
+🖼️ *Sneak Peek*
 
 Here’s a quick preview of the project 👇
-
-
 
 ![dashboard-preview-1](link_here)
 ![dashboard-preview-2](link_here)
 
-📬 Contact
+📬 *Contact*
 
 Feel free to connect with me via the following platforms:
 
@@ -46,7 +40,7 @@ Feel free to connect with me via the following platforms:
 
 
 
-🧠 Author
+🧠 *Author*
 
 Jayanth R
 Data Science Postgraduate | Data Analyst | Python Enthusiast
