@@ -3,6 +3,8 @@
   A compact Data Analysis Project where I explored the world’s top YouTube channels using a structured dataset.
 This project includes dashboards, a data story, and brainstorming notes that highlight insights on subscriber growth, content categories, and overall channel performance.
 
+### *This project is done under the scheme of "Naan Mudhalvan".*
+
 📁 The repository contains all dashboards, dataset, and documents used in the analysis.
 
 ## 📌 *Tools & Techniques Used*
