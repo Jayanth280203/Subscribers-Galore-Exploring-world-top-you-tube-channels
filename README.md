@@ -5,7 +5,7 @@ This project includes dashboards, a data story, and brainstorming notes that hig
 
 📁 The repository contains all dashboards, dataset, and documents used in the analysis.
 
-📌 *Tools & Techniques Used*
+## 📌 *Tools & Techniques Used*
 
 🔸Data Analysis: Excel / CSV exploration
 
