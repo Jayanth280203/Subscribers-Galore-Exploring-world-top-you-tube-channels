@@ -1,4 +1,4 @@
-📊 *Subscribers Galore – Exploring World’s Top YouTube Channels*
+## 📊 *Subscribers Galore – Exploring World’s Top YouTube Channels*
 
   A compact Data Analysis Project where I explored the world’s top YouTube channels using a structured dataset.
 This project includes dashboards, a data story, and brainstorming notes that highlight insights on subscriber growth, content categories, and overall channel performance.
@@ -16,7 +16,7 @@ This project includes dashboards, a data story, and brainstorming notes that hig
 🔸Brainstorming & Planning: Empathy map + idea sketches
 
 
-🧩 *What I Did*
+## 🧩 *What I Did*
 
 🔸Cleaned and explored the YouTube channels dataset
 
@@ -29,18 +29,22 @@ This project includes dashboards, a data story, and brainstorming notes that hig
 🔸Analyzed subscriber comparisons, video performance, and category trends
 
 
-🖼️ *Sneak Peek*
+## 🖼️ *Sneak Peek*
 
 Here’s a quick preview of the project 👇
 
 ![dashboard-preview-1](link_here)
 ![dashboard-preview-2](link_here)
 
-📬 *Contact*
+
+## 📬 Contact
 
 Feel free to connect with me via the following platforms:
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanthrajan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayanth280203)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jayanth_.r_)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayanthr239@gmail.com)
 
 
 
