@@ -33,7 +33,6 @@ This project includes dashboards, a data story, and brainstorming notes that hig
 
 Here’s a quick preview of the project 👇
 
-## 🖼️ Sneak Peek  
 <div align="center">
   <img src="https://github.com/Jayanth280203/Subscribers-Galore-Exploring-world-top-you-tube-channels/blob/main/profile_preview_1.png?raw=true" width="45%">
   <img src="https://github.com/Jayanth280203/Subscribers-Galore-Exploring-world-top-you-tube-channels/blob/main/profile_preview_2.png?raw=true" width="45%">
