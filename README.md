@@ -8,17 +8,24 @@ This project includes dashboards, a data story, and brainstorming notes that hig
 📌 *Tools & Techniques Used*
 
 🔸Data Analysis: Excel / CSV exploration
+
 🔸Dashboard Creation: Tableau 
+
 🔸Data Storytelling: PDF story output
+
 🔸Brainstorming & Planning: Empathy map + idea sketches
 
 
 🧩 *What I Did*
 
 🔸Cleaned and explored the YouTube channels dataset
+
 🔸Built 4 dashboards showcasing insights
+
 🔸Created a data story summarizing findings
+
 🔸Drafted brainstorming notes and empathy mapping
+
 🔸Analyzed subscriber comparisons, video performance, and category trends
 
 
