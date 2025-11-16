@@ -16,7 +16,7 @@ This project includes dashboards, a data story, and brainstorming notes that hig
 🔸Brainstorming & Planning: Empathy map + idea sketches
 
 
-## 🧩 *What I Did*
+## 🦾 *What I Did*
 
 🔸Cleaned and explored the YouTube channels dataset
 
